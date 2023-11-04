@@ -4,10 +4,11 @@ This Python script allows you to see the real battery capacity percentage and cy
 
 ## Usage
 
-1. Get the latest Analytics data from your iPhone in Settings > Privacy > Analytics & Improvements > Analytics Data (Take the file with the most recent date and which starts with "Analytics-XXXX-XX-XX-...).
-2. Share it with your computer.
-3. Run the script in a terminal window: `python real_battery_stats.py path_to_your_analytics_file`.
-4. The script will output the real battery capacity percentage of your iPhone.
+1. Clone this repository.
+2. Get the latest Analytics data from your iPhone in Settings > Privacy > Analytics & Improvements > Analytics Data (Take the file with the most recent date and which starts with "Analytics-XXXX-XX-XX-...).
+3. Share it with your computer and put it in the same folder as the script.
+4. Run the script in a terminal window: `python real_battery_stats.py name_of_your_Analytics_file`.
+5. The script will output the real battery capacity percentage of your iPhone.
 
 ## How it works
 
